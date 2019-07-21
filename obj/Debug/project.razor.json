@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/kamiyayuuki/Documents/04_Unity/03_RainGame/Assembly-CSharp-firstpass.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
